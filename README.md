@@ -8,16 +8,16 @@ Il ne contient pas le code source de l'application (voir les liens ci-dessous). 
 
 | Fichier | Description |
 |---|---|
-| [Dossier_Professionnel.pdf](Dossier_Professionnel.pdf) | Mes réalisations professionnelles, présentées par compétence du titre |
-| [Dossier_Projet.pdf](Dossier_Projet.pdf) | Le projet TaskFlow : analyse du besoin, conception, développement, tests et déploiement |
-| [Livret_ECF.pdf](Livret_ECF.pdf) | Livret des évaluations en cours de formation |
-| [Presentation_TaskFlow.pptx](Presentation_TaskFlow.pptx) | Diaporama utilisé pour la soutenance orale |
+| [Dossier professionnel](dossier-professionnel_181026_1602.pdf) | Mes réalisations professionnelles, présentées par compétence du titre |
+| [Dossier de projet](Dossier%20projet_271026_1429.pdf) | Le projet TaskFlow : analyse du besoin, conception, développement, tests et déploiement |
+| [Livret ECF](livret-ecf.pdf) | Livret des évaluations en cours de formation |
+| [Présentation TaskFlow](TaskFlow%20-%20Presentation%20Elia%20SOINARD.pptx) | Diaporama utilisé pour la soutenance orale |
 
 ```
-├── Dossier_Professionnel.pdf
-├── Dossier_Projet.pdf
-├── Livret_ECF.pdf
-├── Presentation_TaskFlow.pptx
+├── dossier-professionnel_181026_1602.pdf
+├── Dossier projet_271026_1429.pdf
+├── livret-ecf.pdf
+├── TaskFlow - Presentation Elia SOINARD.pptx
 └── README.md
 ```
 
@@ -48,7 +48,7 @@ Le code de l'application se trouve dans deux dépôts séparés :
 ### Application en ligne
 
 - Frontend (Vercel) : https://ws-9-front-end.vercel.app
-- API (Render) : https://ws9-backend.onrender.com
+- API (Render), documentation Swagger : https://ws9-backend.onrender.com/api-docs
 
 > L'API est hébergée sur l'offre gratuite de Render : le premier chargement peut prendre quelques dizaines de secondes, le temps que le serveur redémarre.
 
@@ -61,4 +61,3 @@ Le code de l'application se trouve dans deux dépôts séparés :
 ## Contact
 
 - Elia SOINARD – [GitHub](https://github.com/EliaStack)
-# Dev_FullStack_Eval_2026
